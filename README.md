@@ -5,8 +5,8 @@
 Make sure you have [Node.js](http://nodejs.org/)  installed.
 
 ```sh
-$ git clone https://github.com/a-velihurau/data-filter.git 
-$ cd data-filter
+$ git clone https://github.com/a-velihurau/mr-data-filter.git 
+$ cd mr-data-filter
 $ npm install
 $ npm run start-prod
           

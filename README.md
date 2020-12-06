@@ -8,9 +8,7 @@ Make sure you have [Node.js](http://nodejs.org/)  installed.
 $ git clone https://github.com/a-velihurau/mr-data-filter.git 
 $ cd mr-data-filter
 $ npm install
-$ npm run start-prod
-          
-
+$ npm start
 ```
 
 Your app should now be running on [localhost:3080](http://localhost:3080/).
